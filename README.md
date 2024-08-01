@@ -18,8 +18,7 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="88" height="88" />
 </div>
 
-<br/>
+</table>
 
-<div align="center">
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=abrikosnikov&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahshield&show_icons=true&theme=radical)
+
