@@ -12,22 +12,22 @@
 
 <br/>
 
-<div align="center" style="display: flex; justify-content: center;">
-  <div align="center" style="margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="margin: 0 10px; text-align: center;">
     <a href="#">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="88" height="88" alt="Python" />
     </a>
     <br>Python
   </div>
-  <div align="center" style="margin: 0 10px;">
+  <div style="margin: 0 10px; text-align: center;">
     <a href="#">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="88" height="88" alt="JavaScript" />
     </a>
     <br>JavaScript
   </div>
-  <div align="center" style="margin: 0 10px;">
+  <div style="margin: 0 10px; text-align: center;">
     <a href="#">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="88" height="88" alt="GitHub" />
     </a>
     <br>GitHub
   </div>
