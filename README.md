@@ -5,10 +5,10 @@
 </h1>
 
 <br/>
-
+<div align="center">
   **Мои проекты [Telegram](https://t.me/joiningchannels)**
+</div>
 
-<br/>
 
 <div align="center" style="display: flex; justify-content: center;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="88" height="88" />
