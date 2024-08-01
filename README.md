@@ -5,12 +5,9 @@
 </h1>
 
 <br/>
-
 <div align="center">
   **Мои проекты [Telegram](https://t.me/joiningchannels)**
-
-
-<br/>
+ </div>
 
 <div align="center" style="display: flex; justify-content: center;">
   <div align="center" width="110" height="90">
@@ -33,8 +30,8 @@
   </div>
 </div>
 
-<br/>
 
+</table>
 <div align="center">
   [GitHub stats](https://github-readme-stats.vercel.app/api?username=yahshield&show_icons=true&theme=radical)
 
