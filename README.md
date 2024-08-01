@@ -4,11 +4,13 @@
     </a>
 </h1>
 
+<br/>
+<div align="center">
 
-- **Python**
-  
-- **JavaScript**
+  **Мои проекты [Telegram]((https://t.me/joiningchannels))**
 
+
+ </div>
 
 
 
