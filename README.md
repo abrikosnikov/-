@@ -8,7 +8,7 @@
 
 <div align="center">
   **Мои проекты [Telegram](https://t.me/joiningchannels)**
-</div>
+
 
 <br/>
 
@@ -37,5 +37,5 @@
 
 <div align="center">
   [GitHub stats](https://github-readme-stats.vercel.app/api?username=yahshield&show_icons=true&theme=radical)
-</div>
+
 
