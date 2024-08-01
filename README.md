@@ -19,5 +19,5 @@
 <br/>
 
 <div align="center">
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=abrikosnikov&show_icons=true&theme=radical)
+  ! [Github Stats](https://github-readme-stats.vercel.app/api?username=abrikosnikov&show_icons=true&theme=radical)
 </div>
