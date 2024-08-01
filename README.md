@@ -14,15 +14,15 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="110" height="90">
+    <td align="center" width="110" height="110">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="88" height="88" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="110" height="110">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="Python" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="88" height="88" alt="Python" />
       </a>
       <br>Python
     </td>
