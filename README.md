@@ -5,25 +5,27 @@
 </h1>
 
 <br/>
+
 <div align="center">
   **Мои проекты [Telegram](https://t.me/joiningchannels)**
+</div>
 
 <br/>
 
 <div align="center" style="display: flex; justify-content: center;">
-  <div align="center" width="110" height="90">
+  <div align="center" style="margin: 0 10px;">
     <a href="#">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
     </a>
     <br>Python
   </div>
-  <div align="center" width="110" height="90">
+  <div align="center" style="margin: 0 10px;">
     <a href="#">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
     </a>
     <br>JavaScript
   </div>
-  <div align="center" width="110" height="90">
+  <div align="center" style="margin: 0 10px;">
     <a href="#">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
     </a>
@@ -34,5 +36,5 @@
 <br/>
 
 <div align="center">
-  ! [GitHub stats](https://github-readme-stats.vercel.app/api?username=yahshield&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yahshield&show_icons=true&theme=radical)
 </div>
