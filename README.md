@@ -31,7 +31,6 @@
     </a>
     <br>GitHub
   </div>
-</div>
 
 <br/>
 
