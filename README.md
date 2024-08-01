@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <strong>Мои проекты:</strong> [Перейти в Telegram](https://t.me/joiningchannels)
+  <a href="https://t.me/joiningchannels" style="text-decoration: none; background-color: #0088cc; color: white; padding: 10px 20px; border-radius: 5px;">Мои проекты в Telegram</a>
 </div>
 
 <br/>
