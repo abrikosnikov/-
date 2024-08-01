@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
 
-  **Мои проекты [Telegram]((https://t.me/joiningchannels))**
+  **Мои проекты [Telegram](https://t.me/joiningchannels)**
 
 
  </div>
