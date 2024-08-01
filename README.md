@@ -9,6 +9,8 @@
   **Мои проекты [Telegram](https://t.me/joiningchannels)**
  </div>
 
+<br/>
+
 <div align="center" style="display: flex; justify-content: center;">
   <div align="center" width="110" height="90">
     <a href="#">
@@ -30,10 +32,8 @@
   </div>
 </div>
 
+<br/>
 
-</table>
 <div align="center">
   [GitHub stats](https://github-readme-stats.vercel.app/api?username=yahshield&show_icons=true&theme=radical)
-
-
-<br>
+</div>
