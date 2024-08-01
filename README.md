@@ -36,5 +36,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahshield&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrikosnikov&show_icons=true&theme=radical" alt="GitHub stats" />
 </div>
