@@ -3,10 +3,14 @@
 
 
 - **Python**
+  
 - **JavaScript**
 
+
+
+
   <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="77" height="77" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="77" height="77" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="77" height="77" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="88" height="88" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="88" height="88" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="88" height="88" />
 </div>
